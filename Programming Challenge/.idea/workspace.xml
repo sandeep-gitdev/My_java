@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c79a3f2-7cf0-49e8-9385-54aa5633eb0e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Challenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/1 Morning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/10 Perimeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/11 Area.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/12 SimpleInterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/13 CompoundInterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/14 Celsius.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/15 PositiveNegativeZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/16 OddEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/17 GreatestOfThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/18 LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/19 Grading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2 Subscribe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/20 AgeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/21 BitwiseAnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/22 BitwiseOr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/23 BitwiseXor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/24 BitwiseCompliment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/25 LeftShift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/26 RightShift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/27 OddEvenBitwise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/28 MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/29 OddSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/3 Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/30 Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/31 SumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/32 Lcm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/33 GCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/34 Prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/35 ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/36 Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/37 ArmstrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/38 PalindromeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/39 LoopPatterns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/4 Singleline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/5 Welcome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/6 Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/7 Swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/8 Airthmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/9 FloatMultiplication.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2c7wEwbM4pTmYRQ5vIuIJQnygdv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AgeCalculator.executor": "Run",
+    "Application.Airthmetic.executor": "Run",
+    "Application.Area.executor": "Run",
+    "Application.ArmstrongNumber.executor": "Run",
+    "Application.BitwiseAnd.executor": "Run",
+    "Application.BitwiseCompliment.executor": "Run",
+    "Application.BitwiseOr.executor": "Run",
+    "Application.BitwiseXor.executor": "Run",
+    "Application.Celsius.executor": "Run",
+    "Application.CompoundInterest.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.Fibonacci.executor": "Run",
+    "Application.FloatMultiplication.executor": "Run",
+    "Application.GCD.executor": "Run",
+    "Application.Grading.executor": "Run",
+    "Application.GreatestOfThree.executor": "Run",
+    "Application.Lcm.executor": "Run",
+    "Application.LeapYear.executor": "Run",
+    "Application.LeftShift.executor": "Run",
+    "Application.LoopPatterns.executor": "Run",
+    "Application.Morning.executor": "Run",
+    "Application.MultiplicationTable.executor": "Run",
+    "Application.OddEven.executor": "Run",
+    "Application.OddEvenBitwise.executor": "Run",
+    "Application.OddSum.executor": "Run",
+    "Application.PalindromeNumber.executor": "Run",
+    "Application.Perimeter.executor": "Run",
+    "Application.PositiveNegativeZero.executor": "Run",
+    "Application.Prime.executor": "Run",
+    "Application.ReverseNumber.executor": "Run",
+    "Application.RightShift.executor": "Run",
+    "Application.SimpleInterest.executor": "Run",
+    "Application.SumOfDigits.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/sandeep/Downloads/KD/5 whileloop, Methods, Arrays"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.LoopPatterns">
+    <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArmstrongNumber" />
+      <module name="Programming Challenge" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fibonacci" />
+      <module name="Programming Challenge" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoopPatterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoopPatterns" />
+      <module name="Programming Challenge" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PalindromeNumber" />
+      <module name="Programming Challenge" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseNumber" />
+      <module name="Programming Challenge" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LoopPatterns" />
+        <item itemvalue="Application.PalindromeNumber" />
+        <item itemvalue="Application.ArmstrongNumber" />
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.ReverseNumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-8336523bb0d9-508728b4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c79a3f2-7cf0-49e8-9385-54aa5633eb0e" name="Changes" comment="" />
+      <created>1707475819099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707475819099</updated>
+    </task>
+    <servers />
+  </component>
+</project>
